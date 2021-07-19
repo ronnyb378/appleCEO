@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ronnyb378/appleCEO/issues"
   },
-  "homepage": "https://github.com/ronnyb378/appleCEO#readme"
+  "homepage": "https://github.com/ronnyb378/appleCEO#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
 }
